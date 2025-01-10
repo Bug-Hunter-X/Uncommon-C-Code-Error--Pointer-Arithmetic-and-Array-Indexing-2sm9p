@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in C programming involving pointer arithmetic and array indexing.  The bug.c file contains code that can lead to unexpected behavior. The bugSolution.c provides a corrected version. This example highlights the importance of careful pointer manipulation and understanding memory allocation in C.
